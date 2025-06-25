@@ -6,3 +6,5 @@ app = FastAPI()
 @app.get("/")
 async def root():
     return {"message": "Hello World"}
+
+# hello word print karega fastAPI par
